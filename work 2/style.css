@@ -1,0 +1,132 @@
+body {
+
+  color: rgb(0, 0, 0);
+  margin: 0px;
+  padding: 0px;
+  background: url(img/https://i.icanvas.com/WDA1336?d=2&sh=h&p=1&bg=g);
+  width: 1365px;
+}
+
+.header{
+  display: block;
+}
+
+.container1 img{
+  width: 1365px;
+  height: 300px;
+}
+
+.left {
+  position: absolute;
+  margin-left: 30px;
+  text-align:center ;
+  font-size:25px;
+}
+
+.left img{
+  width: 60px;
+  margin-top: 10px;
+}
+
+.right {
+  position: absolute;
+  display: block;
+  margin-left: 860px;
+  width: 488px;
+}
+
+.navbar span {
+  font-size: 20px;
+}
+
+.navbar span a {
+  color: rgb(0, 0, 0);
+  padding: 20px;
+}
+
+.container2 {
+  background-color: rgb(189, 236, 239);
+  text-align: center;
+  height: 180px;
+  padding: 20px;
+}
+
+.con3{
+ 
+  height: 500px;
+  background-color: rgb(0, 0, 0);
+  padding-left: 70px;
+  margin: 0px;
+
+}
+
+.box1{
+
+  border: 3px solid black;
+  width: 300px;
+  height: 340px;
+  float: left;
+}
+
+.box1 img{
+ width: 300px;
+  height: 340px;
+
+}
+
+.box2{
+
+  border: 3px solid black;
+  width: 300px;
+  height: 400px;
+  float: left;
+  margin-top: 50px;
+}
+
+.box2 img{
+ width: 300px;
+  height: 400px;
+
+}
+
+.box3{
+
+  border: 3px solid black;
+  width: 300px;
+  height: 350px;
+  float: left;
+}
+
+.box3 img{
+ width: 300px;
+  height: 350px;
+
+}
+.box4{
+
+  border: 3px solid black;
+  width: 300px;
+  height: 400px;
+  float: left;
+  margin-top: 50px;
+}
+
+.box4 img{
+ width: 300px;
+  height: 400px;
+
+}
+.address{
+  width: 1365px;
+  height: 70px;
+  background-color:  #647173 ;
+  text-align: center;
+  color: white;
+}
+.address p{
+
+  padding: 10px;
+  margin: 0px;
+ 
+  font-size: 10px;
+}
